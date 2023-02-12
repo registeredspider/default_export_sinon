@@ -1,0 +1,1 @@
+export {  childGo } from './ChildModule'

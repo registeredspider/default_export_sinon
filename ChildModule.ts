@@ -1,0 +1,1 @@
+export function childGo(n:number) { return 2;}
